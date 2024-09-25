@@ -15,9 +15,10 @@ export default function Nav() {
                         <li>Home</li>
                         <li>About</li>
                         <li>Portfolio</li>
+                        <li>Client</li>
                     </ul>
                     {/* btn */}
-                    <button className="btn btn-outline-light btn-sm"><i class="fa-regular fa-comment-dots me-2"></i>Contact Me</button>
+                    <button className="btn btn-outline-light btn-sm"><i class="fa-regular fa-comment-dots fa-beat-fade me-2"></i>Contact Me</button>
                 </nav>
             </div>
         </>

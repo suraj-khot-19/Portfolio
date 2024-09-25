@@ -29,12 +29,12 @@
 .top-nav ul li {
     color: #909090;
     margin: 1rem;
-    padding: 0.8rem 0;
+    padding: 0.5rem 0;
     cursor: pointer;
 }
 
 .top-nav ul li:hover {
-    color: white;
-    padding-bottom: 0.8rem;
-    border-bottom: 3px solid #909090;
+    color: rgb(255, 170, 1);
+    border-bottom: 3px solid rgb(255, 170, 1);
+    font-weight: bolder;
 }

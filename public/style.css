@@ -9,3 +9,13 @@ body {
     overflow: hidden;
     overflow-y: scroll;
 }
+
+.btn {
+    opacity: 0.8;
+}
+
+.btn:hover {
+    opacity: 1;
+    background-color: rgb(255, 170, 1);
+    font-weight: bold;
+}
