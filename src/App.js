@@ -1,7 +1,9 @@
-import React from 'react'
+import Nav from './components/Navbar/Nav';
+
 function App() {
   return (
     <>
+      <Nav />
     </>
   );
 }

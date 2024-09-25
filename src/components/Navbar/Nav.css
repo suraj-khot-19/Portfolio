@@ -1,0 +1,40 @@
+.top-nav-box {
+    background-color: #303030;
+    border-bottom: 0.3px solid #555555;
+    position: sticky;
+    top: 0;
+}
+
+.top-nav {
+    width: 100vw;
+    max-width: 75rem;
+    height: 4rem;
+    margin: 0 auto;
+}
+
+.top-nav img {
+    height: 3rem;
+    width: 4rem;
+    cursor: pointer;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.top-nav ul li {
+    color: #909090;
+    margin: 1rem;
+    padding: 0.8rem 0;
+    cursor: pointer;
+}
+
+.top-nav ul li:hover {
+    color: white;
+    padding-bottom: 0.8rem;
+    border-bottom: 3px solid #909090;
+}
