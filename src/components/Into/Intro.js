@@ -13,7 +13,7 @@ export default function Intro() {
                         love code and love code
                     </span>
                     <button className="btn btn-outline-light ms-1 mt-2">
-                        <i class="fa-solid fa-briefcase fa-beat-fade btn-sm me-2"></i>Hire me
+                        <i className="fa-solid fa-briefcase fa-beat-fade btn-sm me-2"></i>Hire me
                     </button>
                 </div>
                 <img src={suraj} alt="suraj" className='intro-img' />
