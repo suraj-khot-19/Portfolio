@@ -46,15 +46,20 @@
     opacity: 0.92;
 }
 
-@media(max-width:550px) {
+@media(max-width:730px) {
     .intro-img {
         right: -20vw;
     }
 }
 
-@media(max-width:450px) {
+@media(max-width:550px) {
     .intro-img {
-        right: 0vw;
-        left: -1vw;
+        right: -30vw;
+    }
+}
+
+@media(max-width:480px) {
+    .intro-img {
+        right: -40vw;
     }
 }
